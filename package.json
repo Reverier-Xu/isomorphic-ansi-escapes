@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-ansi-escapes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ANSI escape codes for manipulating the terminal - in-browser version",
   "repository": "Reverier-Xu/isomorphic-ansi-escapes",
   "author": {
