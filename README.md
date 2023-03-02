@@ -4,6 +4,15 @@
 
 A fork of [sindresorhus/ansi-escapes](https://github.com/sindresorhus/ansi-escapes) that remove node dependencies to support in-browser use (exactly, [xterm.js](http://xtermjs.org/)).
 
+## Installation
+
+```shell
+# Using pnpm
+pnpm add isomorphic-ansi-escapes
+# Or yarn
+yarn add isomorphic-ansi-escapes
+```
+
 ## Use with xterm
 
 ```typescript
