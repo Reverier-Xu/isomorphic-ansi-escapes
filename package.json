@@ -1,0 +1,42 @@
+{
+  "name": "isomorphic-ansi-escapes",
+  "version": "1.0.0",
+  "description": "ANSI escape codes for manipulating the terminal - in-browser version",
+  "repository": "Reverier-Xu/isomorphic-ansi-escapes",
+  "author": {
+    "name": "Reverier-Xu",
+    "email": "reverier.xu@woooo.tech",
+    "url": "https://blog.woooo.tech/"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "ansi",
+    "string",
+    "escape",
+    "escapes",
+    "formatting",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text",
+    "vt100",
+    "sequence",
+    "control",
+    "code",
+    "codes",
+    "cursor"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.14.4",
+    "typescript": "^4.9.5"
+  }
+}
